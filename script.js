@@ -1,5 +1,5 @@
 const textInput = document.getElementById('text-input');
-const checkBtn = document.getElementById('check-button');
+const checkBtn = document.getElementById('check-btn');
 const result = document.getElementById('result');
   
 //  added Event Listener on checkBtn to check palindrome
